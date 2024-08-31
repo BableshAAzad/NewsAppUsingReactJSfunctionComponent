@@ -61,11 +61,11 @@ This is a prototype news application built using ReactJS. It demonstrates how a 
 #### 🏠 Home Page 👲
 
 <p align="center">
-  <img src="./project_images/home.jpeg" alt="home_page" width="90%"/>
+  <img src="./project_images/home.png" alt="home_page" width="90%"/>
 </p>
 
 #### 🧑 Categories 👲
 
 <p align="center">
-  <img src="./project_images/categorised.jpeg" alt="categorised" width="90%"/>
+  <img src="./project_images/categorised.png" alt="categorised" width="90%"/>
 </p>
