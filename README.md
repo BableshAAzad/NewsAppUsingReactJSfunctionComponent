@@ -1,4 +1,4 @@
-## 📰🗞️ New Web Application [BableshAAzad.com](https://www.bableshaazad.com)
+## 📰🗞️ News Web Application [BableshAAzad.com](https://www.bableshaazad.com)
 This is a prototype news application built using ReactJS. It demonstrates how a news app can function, with data sourced from the `newsapi.org` free API.
 
 ---
