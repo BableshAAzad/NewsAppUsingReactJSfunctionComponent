@@ -5,6 +5,7 @@ import News from './components/News';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
+
 export default function App() {
   let pageSize = 6;
   let apiKey = process.env.REACT_APP_NEWS_API;
